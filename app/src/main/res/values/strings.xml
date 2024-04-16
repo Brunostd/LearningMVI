@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LearningMVI</string>
+    <string name="sum">Adicionar</string>
+    <string name="subtract">Subtrair</string>
+</resources>
